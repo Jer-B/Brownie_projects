@@ -1,0 +1,6 @@
+dotenv: .env
+wallets:
+   from_key: ${private_key}
+
+networks:
+   rinkeby_id: ${664d2511461c427ca5a455781afde84a} 
